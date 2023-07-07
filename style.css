@@ -1,0 +1,11 @@
+
+body {
+    min-height: 98vh;
+    /* background-image: url('imageurl'); */
+    background-size: cover; 
+    overflow-y: hidden;
+    color: black;
+}
+.h-max {
+    height:80vh;
+}
